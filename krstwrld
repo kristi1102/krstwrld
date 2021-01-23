@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces&display=swap" rel="stylesheet">
+<style>
+body {
+  background-color: #FFE0E0;
+}
+
+h1 {
+font-family: 'Fraunces', serif;
+font-style: normal;
+font-size: 36px;
+  color: #000;
+}
+
+p {
+  font-family: arial;
+  font-size: 14px;
+}
+
+.mebox {
+background: #fff;
+width: 310px; height: 115px;
+padding: 10px;
+position: relative;
+left: 0px;
+border: 1px solid #FFD2CD;
+box-shadow: 0px 3px 5px 0px #9E8987;
+
+}
+
+boxtitle {
+text-align: left; position: relative; left: 10px;
+line-height: 25px;
+
+}
+
+
+bio {
+width: 200px;
+height: auto;
+display: inline-block;
+}
+
+.column {
+box-sizing: 200px;
+  padding: 15px;
+  position: static;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Botões */
+.button {
+  border: none;
+  color: #C0392B;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 15px;
+  font-family: century gothic;
+}
+.button1 {
+  background-color: #C0392B; 
+  color: white;
+}
+
+.button1:hover {
+  background-color: #E6B0AA;
+  color: white;
+}
+
+/* Java */
+#myDIV {
+border: 1px solid #F3AFA7;
+  width: 329px;
+  height: auto;
+  padding: 2px 0;
+  text-align: center;
+  background-color: #FFC1BA;
+  margin-top: 10px;
+  font-family: verdana;
+  font-size: 12px;
+  font-variant: small-caps;
+  position: relative;
+  bottom: 34px;
+  left: -10px;
+  color: #D07070;
+}
+
+</style>
+</head>
+<body>
+<center>
+<div class="mebox">
+<img src="https://instagram.frec26-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/90090238_903724180078956_2454406796546805502_n.jpg?_nc_ht=instagram.frec26-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=S5NtHMcej54AX9IPFzr&tp=1&oh=2afde330b74fe7395012c94834c15835&oe=60331A7C" style="width:100px;height:100px; border-radius: 200px; object-fit: cover; float: left;">
+<boxtitle><h1 style="color: #EC7063";>Kristi</h1></boxtitle>
+<bio><p style="font-family: courier; font-size: 11px; color: #717171; line-height: 1; text-align: left; position: relative; top: -25px; left: 7px;"><b>19</b>|RECIFE-PE<br>[ela/dela/-a]<br><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Bisexual_Pride_Flag.svg"; alt="Bissexual"; style="width: 20px; height: auto; position: relative; bottom: 50px; left: 105px;"><br>
+<div id="myDIV"; style="position: absolute; left: -1px; bottom: 0px;">
+  infp-t | 4w5 | estudante de psicologia
+</div></a></bio><br><div style="font-family: georgia; font-size:11px; color: #D07070; position: relative; bottom: -5px;">ig: kristialbq | pinterest: xxkristt | last.fm: kristialbuquerq<br><br></div>
+<div class="row">
+<div class="column">
+    <h4 style="font-family: fraunces; color: #C0392B">Antes que me siga</h4>
+    <p style=" text-align: left; font-family: tahoma; font-size: 12px; line-height: 1; color: grey">- Não gosto de conservadorismo, lgbtfóbicos, racistas, policiais, crentes, neoliberalismo etc. (resumindo: a direita no geral)<br><br>- Só sigo de volta quem eu gostar do conteúdo (visito o perfil).<br><br>- Constantemente uso inglês nos meus tweets e retweeto coisas em inglês.<br><br>- Meu perfil é meio pessoal, meio fan account (multifadom).<br><br>- Eventualmente faço uma limpa nos seguidores e dou soft block em quem eu não quero mais que me acompanhe por algum motivo (geralmente não é nada pessoal).<br><br>- Tenho muitos interesses distintos e isso se reflete no meu perfil.<br><br>- Antis não me sigam.<br><br>- Frequentemente desabafo, dou oversharing e reclamo da minha vida pessoal, também falo muito sobre depressão e ansiedade; por favor ignorar.<br><br>- Eventualmente coloco kpop na tl.<br><br>- Uso humor autodepreciativo.<br><br>- Não acredito em "xenogênero" (identificação com coisas/espécies não humanas) como um gênero, apenas como uma manifestação da individualidade, já que gênero é, por definição, relacionado apenas aos "papéis" impostos socialmente para os <b>sexos</b> biológicos, dessa forma, pode se configurar como homem, mulher (cis e trans) e não binário.</p>
+</div>
+<div class="column">
+    <h4 style="font-family: fraunces; color: #C0392B">Favoritos e Interesses</h4>
+    <p style=" text-align: left; font-family: tahoma; font-size: 12px; line-height: 1; color: grey"><b>Séries:</b> Community, The Office, That 70s Show, Parks and Recreation, Modern Family, The Good Place, Bojack Horseman etc. <a href="https://www.tvtime.com/en/user/35480005/profile"; style="color: white; text-decoration: none;"><div style="background: #C0392B; width: 150px; font-size: 11px; color: white; padding: 5px; border-radius: 50px;box-shadow: 0px 3px 6px #797D7F;">Também já vi essas</a></div><br><hr><p style=" text-align: left; font-family: tahoma; font-size: 12px; line-height: 1.2; color: grey"><b>Música:</b> Minha cantora favorita é a <b>Marina (antiga Marina and the Diamonds)</b>.<br><br>Meu girlgroup (ocidental) favorito é o <b>Little Mix</b> e os coreanos são <b>Blackpink e 2NE1</b>, mas também gosto de <b>TWICE, CLC, Everglow, Red Velvet, MAMAMOO, LOONA</b> etc.<br><br>Além de pop e suas variações, também escuto bastante <b>R&B e Hip-hop [90s, 2000s, contemporâneo e alternativo], PC Music</b> e os os ritmos locais do meu estado, como <b>brega e bregafunk</b>. Ocasionalmente ouço <b>reggaeton, afrobeat, dancehall e alguns artistas mais indie</b>. Na verdade, <b style="color: #C0392B">sou capaz de ouvir qualquer coisa, só depende de como estou no momento.</b><br>
+<a href="https://www.last.fm/user/kristialbuquerq"; style="color: white; text-decoration: none;"><div style="background: #C0392B; width: 150px; font-size: 11px; color: white; padding: 5px; border-radius: 50px;box-shadow: 0px 3px 6px #797D7F;">Tudo que eu escuto</a></div><br><hr><p style=" text-align: left; font-family: tahoma; font-size: 12px; line-height: 1; color: grey"><b>Outros:</b> Vídeos-ensaio; Terapia Cognitiva-Comportamental; Anos 2000 (músicas, roupas, cultura pop); Filosofia; Tatuagens e cabelos coloridos; Maquiagem; Herbalismo; Yoga; Dançar; aesthetics (cottagecore, y2k, punk), humor nichado e/ou non-sense; Poesias de Florbela Espanca; Desenhar.
+
+</body>
+</html>
